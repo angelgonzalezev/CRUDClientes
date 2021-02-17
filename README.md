@@ -1,4 +1,4 @@
-# CROUDClientes
+# CRUDClientes
 Aplicación de formuracio en .NET con conexión a base de datos SQL y manejo de procedimientos.
 
 Esta aplicación funciona con SQL Server.
